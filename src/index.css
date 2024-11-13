@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-[#FAF8F6];
+    
+  }
+  
+ 
+
+  :root {
+    --primary-bg: #F4EDE7;
+    --border-color: #E6DDD5;
+    --text-primary: #5c4842;
+    
+  }
